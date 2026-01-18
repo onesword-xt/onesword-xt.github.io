@@ -1,3 +1,3 @@
-var posts=["posts/16112.html","posts/16105.html","posts/16116.html","posts/16114.html","posts/16101.html","posts/16115.html","posts/16104.html","posts/16113.html","posts/16106.html","posts/TGCTF.html","posts/16117.html","posts/命令执行.html","posts/16121.html","posts/16103.html","posts/16120.html","posts/16118.html","posts/16119.html","posts/16109.html","posts/16102.html","posts/ctfshowjwt.html","posts/ctfshowxss.html","posts/xss.html","posts/16120.html","posts/16108.html","posts/17001.html","posts/17000.html"];function toRandomPost(){
+var posts=["posts/53dec9d0.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
