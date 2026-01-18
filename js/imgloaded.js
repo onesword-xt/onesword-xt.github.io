@@ -156,17 +156,17 @@ class ProgressiveLoad {
 
   const ldconfig = {
     light: {
-	  smallSrc: '/img/top.png', //浅色模式 小图链接 尽可能配置小于100k的图片 
-	  largeSrc: '/img/top.png', //浅色模式 大图链接 最终显示的图片
-	  mobileSmallSrc: '/img/top.png', //手机端浅色小图链接 尽可能配置小于100k的图片
-	  mobileLargeSrc: '/img/top.png', //手机端浅色大图链接 最终显示的图片
+	  smallSrc: '/root/onesword/themes/anzhiyu/source/img/top.png', //浅色模式 小图链接 尽可能配置小于100k的图片 
+	  largeSrc: '/root/onesword/themes/anzhiyu/source/img/top.png', //浅色模式 大图链接 最终显示的图片
+	  mobileSmallSrc: '/root/onesword/themes/anzhiyu/source/img/top.png', //手机端浅色小图链接 尽可能配置小于100k的图片
+	  mobileLargeSrc: '/root/onesword/themes/anzhiyu/source/img/top.png', //手机端浅色大图链接 最终显示的图片
 	  enableRoutes: ['/'],
 	  },
 	dark: {
-	  smallSrc: '/img/top.png', //深色模式 小图链接 尽可能配置小于100k的图片 
-	  largeSrc: '/img/top.png', //深色模式 大图链接 最终显示的图片
-	  mobileSmallSrc: '/img/top.png', //手机端深色模式小图链接 尽可能配置小于100k的图片
-	  mobileLargeSrc: '/img/top.png', //手机端深色大图链接 最终显示的图片
+	  smallSrc: '/root/onesword/themes/anzhiyu/source/img/top.png', //深色模式 小图链接 尽可能配置小于100k的图片 
+	  largeSrc: '/root/onesword/themes/anzhiyu/source/img/top.png', //深色模式 大图链接 最终显示的图片
+	  mobileSmallSrc: '/root/onesword/themes/anzhiyu/source/img/top.png', //手机端深色模式小图链接 尽可能配置小于100k的图片
+	  mobileLargeSrc: '/root/onesword/themes/anzhiyu/source/img/top.png', //手机端深色大图链接 最终显示的图片
 	  enableRoutes: ['/'],
 	  },
 	};
